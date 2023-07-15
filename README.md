@@ -1,15 +1,18 @@
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-  7
-</p><p align="center">
-<img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
 
-Glad to see you! ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+<h2 align="center"><img width="50px" height="50px" src="https://c.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif"/>Hey there, I'm Sotonye &ldquo;Bendito&rdquo; Orifama. 😁</h2>
+<h3 align="center">A passionate Software Engineer. 💻</h3>
+<center><img src="https://github.com/EmediongFrancis/EmediongFrancis/blob/main/giphy.gif"/></center>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sotoriz&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+- 🔭 I’m currently working on [my web site.](https://github.com/sotoriz/mysql advanced)
 
+- 🌱 I’m currently learning **@ALX_Africa Holberton School.**
+
+- 👯 I’m looking to collaborate on **inspiring projects.**
+
+- 💬 Ask me about **Linux, ubuntu, and programming.**
+
+- 📫 How to reach me: **sotorisfx@gmail.com**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
