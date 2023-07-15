@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Software Engineer. 💻</h3>
 <center><img src="https://github.com/EmediongFrancis/EmediongFrancis/blob/main/giphy.gif"/></center>
 
-- 🔭 I’m currently working on [my web site.](https://github.com/sotoriz/mysql advanced)
+- 🔭 I’m currently working on [my web site.](https://github.com/sotoriz/mysql)
 
 - 🌱 I’m currently learning **@ALX_Africa Holberton School.**
 
@@ -13,6 +13,16 @@
 - 💬 Ask me about **Linux, ubuntu, and programming.**
 
 - 📫 How to reach me: **sotorisfx@gmail.com**
+
+- ⚡ Fun fact: **I am a Nigerian.**
+<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/sotoris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sotonyeorifama" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sotonyeorifama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sotonyeorifama" height="30" width="40" /></a>
+<a href="https://fb.com/sotonyeorifama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sotonyeorifama" height="30" width="40" /></a>
+
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
