@@ -22,6 +22,8 @@
 <a href="https://linkedin.com/in/sotonyeorifama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sotonyeorifama" height="30" width="40" /></a>
 <a href="https://fb.com/sotonyeorifama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sotonyeorifama" height="30" width="40" /></a>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
